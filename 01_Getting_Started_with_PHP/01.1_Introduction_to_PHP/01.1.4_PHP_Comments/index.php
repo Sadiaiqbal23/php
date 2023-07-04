@@ -4,8 +4,8 @@
 # This is also a single-line comment
 echo "Hello, World!"; # My first PHP statement
 
-/* "I've never thought of PHP as more 
-than a simple tool to solve problems."
-- Rasmus Lerdorf */
+/* This is a multiple-lines comment block
+that spans over multiple
+lines */
 echo "\nRasmus is the creator of PHP!";
 
