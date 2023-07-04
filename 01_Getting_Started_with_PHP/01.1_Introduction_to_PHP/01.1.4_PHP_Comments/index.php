@@ -1,5 +1,7 @@
 <?php
-// I will always remember this
+// This is a single-line comment
+
+# This is also a single-line comment
 echo "Hello, World!"; # My first PHP statement
 
 /* "I've never thought of PHP as more 
