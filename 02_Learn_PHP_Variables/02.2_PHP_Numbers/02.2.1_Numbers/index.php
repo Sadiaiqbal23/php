@@ -1,5 +1,7 @@
 <?php
   /*
+  https://www.codewithharry.com/videos/php-tutorials-in-hindi-10/
+  
   Operator are mainly divided by three groups.
 1.Uniary Operators that takes one values
 2.Binary Operators that takes two values
